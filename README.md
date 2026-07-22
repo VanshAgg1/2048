@@ -49,6 +49,11 @@ This project is a single Python script that uses the built-in `tkinter` library,
    python project_2048/start_game.py
    ```
 
+### macOS
+
+If you encounter a blank Tkinter window, install the latest Python from https://www.python.org/downloads/macos/.
+The system Python bundled with macOS uses an outdated Tk version that may not render the UI correctly.
+
 ## How to Play 🕹️
 
 1. **Launch the Game**: Run the `start_game.py` script as described in the Installation section.
